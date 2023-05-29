@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KPorus&theme=onedark" alt="kporus" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js, material Ul**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 My portfolio link [https://singular-mooncake-bead22.netlify.app/](https://singular-mooncake-bead22.netlify.app/)
 
