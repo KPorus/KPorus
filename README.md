@@ -24,7 +24,6 @@
   href="https://nextjs.org/"
   target="_blank"
   rel="noreferrer"
-  className="nextjs-link"
 >
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
@@ -37,18 +36,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=KPorus&show_icons=true&theme=radical" alt="kporus" /></p>&nbsp;
-
-/* Light mode styles */
-.nextjs-link {
-  background-color: white;
-}
-
-/* Dark mode styles */
-@media (prefers-color-scheme: dark) {
-  .nextjs-link {
-    background-color: black;
-  }
-}
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&locale=en" alt="kporus" /></p> -->
 
