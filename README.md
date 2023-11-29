@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kporus&label=Profile%20views&color=0e75b6&style=flat" alt="kporus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KPorus&theme=onedark" alt="kporus" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KPorus&theme=onedark" alt="kporus" /></a> </p>*/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover" alt="kporus" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
