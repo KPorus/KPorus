@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kporus&label=Profile%20views&color=0e75b6&style=flat" alt="kporus" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kporus&theme=dark_lover" alt="kporus" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **AWS, Docker, prisma**
 
 - 👨‍💻 My portfolio link [https://singular-mooncake-bead22.netlify.app/](https://singular-mooncake-bead22.netlify.app/)
 
