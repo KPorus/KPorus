@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mdfardinkhan1952@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/1gq8NS7PlJmAu7j7CPb0qXvy5jZ0Bp2ro/view?usp=share_link](https://drive.google.com/file/d/1gq8NS7PlJmAu7j7CPb0qXvy5jZ0Bp2ro/view?usp=share_link)
+- 📄 Know about me [https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing](https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing)
 
 <h3 align="left" margin="10">Connect with me:</h3>
 <p align="left">
