@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kporus&label=Profile%20views&color=0e75b6&style=flat" alt="kporus" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kporus&theme=dark_lover" alt="kporus" /></a> </p>
-
+<a align="center" href="https://app.daily.dev/kporus"><img src="https://api.daily.dev/devcards/v2/6Ed9Vg6hp1BUcfxWliI4t.png?type=default&r=wo0" width="356" alt="Md Fardin Khan's Dev Card"/></a>
 - 🌱 I’m currently learning **AWS, Docker**
 
 - 👨‍💻 My portfolio link [https://singular-mooncake-bead22.netlify.app/](https://singular-mooncake-bead22.netlify.app/)
