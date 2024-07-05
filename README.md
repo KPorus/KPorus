@@ -35,10 +35,10 @@
 </p>
 <div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-items: center; align-items: center;">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&theme=radical" alt="kporus" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kporus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kporus" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kporus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kporus" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&theme=radical" alt="kporus" />
   </p>
   <p style="margin-top: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kporus&theme=tokyonight&hide_border=false" alt="kporus" />
