@@ -1,4 +1,21 @@
-<h1 align="center">Hi 👋, I'm Fardin khan</h1>
+python -m pip install --upgrade github-readme-terminal
+import gifos
+
+t = gifos.Terminal(width=320, height=240, xpad=5, ypad=5)
+t.gen_text(text="Hello World!", row_num=1)
+t.gen_text(text="With \x1b[32mANSI\x1b[0m escape sequence support!", row_num=2)
+github_stats = gifos.utils.fetch_github_stats(
+    user_name="x0rzavi"
+)  # needs GITHUB_TOKEN in .env or as environment variable
+t.delete_row(row_num=1)
+t.gen_text(text=f"GitHub Name: {github_stats.account_name}", row_num=1, contin=True)
+t.gen_gif()
+image = gifos.utils.upload_imgbb(
+    file_name="output.gif", expiration=60
+)  # needs IMGBB_API_KEY in .env or as environment variable
+print(image.url)
+
+<!--<h1 align="center">Hi 👋, I'm Fardin khan</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kporus&label=Profile%20views&color=0e75b6&style=flat" alt="kporus" /> </p>
@@ -44,7 +61,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kporus&theme=tokyonight&hide_border=false" alt="kporus" />
   </p>
 </div>
-
+-->
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&locale=en" alt="kporus" /></p> -->
