@@ -33,7 +33,7 @@
 </a>
 
 </p>
-<div style="width: 100%; display: flex; flex-wrap: wrap; justify-items: center; align-items: center;">
+<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-items: center; align-items: center;">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&theme=radical" alt="kporus" />
   </p>
