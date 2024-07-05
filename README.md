@@ -38,14 +38,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&theme=radical" alt="kporus" />
 </p>&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kporus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kporus" /></p>&nbsp;
-  
+<p style={margin-top: "10"}><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kporus&theme=tokyonight&hide_border=false" alt="kporus" /></p>
 </div>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&locale=en" alt="kporus" /></p> -->
 
 <!--<p style={margin-top: "10"}><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KPorus&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly/?user=kporus&" alt="kporus" /></p>-->
-<p style={margin-top: "10"}><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kporus&theme=tokyonight&hide_border=false" alt="kporus" /></p>
+
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kporus&theme=tokyo-night" width="100%"/></p>
 
