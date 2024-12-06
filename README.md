@@ -24,7 +24,7 @@
 - 📄 Know about me [https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing](https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fardin.khan.166751/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fardinkhan121199/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fardin.khan.166751/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fardinkhan121199/) 
 
 
 # 💻 Tech Stack:
