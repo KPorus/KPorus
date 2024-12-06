@@ -38,21 +38,12 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=Kporus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; justify-items: center; align-items: center;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kporus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="kporus" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&theme=radical" alt="kporus" />
-  </p>
-  <p style="margin-top: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kporus&theme=tokyonight&hide_border=false" alt="kporus" />
-  </p>
-</div>
+# 📊 GitHub Stats:
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kporus&show_icons=true&locale=en" alt="kporus" /></p> -->
+![](https://github-readme-stats.vercel.app/api?username=Kporus&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kporus&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kporus&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--<p style={margin-top: "10"}><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KPorus&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly/?user=kporus&" alt="kporus" /></p>-->
 
 
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kporus&theme=tokyo-night" width="100%"/></p>
