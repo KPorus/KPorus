@@ -8,7 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kporus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<p align="center" ><a href="https://app.daily.dev/kporus"><img src="https://api.daily.dev/devcards/v2/6Ed9Vg6hp1BUcfxWliI4t.png?type=default&r=vxr" width="356" alt="Md Fardin Khan's Dev Card"/></a></p>
+<!-- <p align="center" ><a href="https://app.daily.dev/kporus"><img src="https://api.daily.dev/devcards/v2/6Ed9Vg6hp1BUcfxWliI4t.png?type=default&r=vxr" width="356" alt="Md Fardin Khan's Dev Card"/></a></p> -->
 
 ### ✍️ Random Dev Quote
 
