@@ -37,9 +37,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Kporus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">![](https://github-readme-stats.vercel.app/api?username=Kporus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kporus&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kporus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kporus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
 
 
 
