@@ -9,6 +9,12 @@
 
 
 <p align="center" ><a href="https://app.daily.dev/kporus"><img src="https://api.daily.dev/devcards/v2/6Ed9Vg6hp1BUcfxWliI4t.png?type=default&r=vxr" width="356" alt="Md Fardin Khan's Dev Card"/></a></p>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 - 🌱 I’m currently learning **Machine Learning, Nest js, Docker**
 
 - 👨‍💻 My portfolio link [https://singular-mooncake-bead22.netlify.app/](https://singular-mooncake-bead22.netlify.app/)
