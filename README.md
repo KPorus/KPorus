@@ -5,7 +5,8 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Kporus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--- ![](https://github-profile-trophy.vercel.app/?username=Kporus&theme=radical&no-frame=false&no-bg=true&margin-w=4) --->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kporus&theme=dark_lover" alt="kporus" /></a> </p>
 
 
 <!-- <p align="center" ><a href="https://app.daily.dev/kporus"><img src="https://api.daily.dev/devcards/v2/6Ed9Vg6hp1BUcfxWliI4t.png?type=default&r=vxr" width="356" alt="Md Fardin Khan's Dev Card"/></a></p> -->
