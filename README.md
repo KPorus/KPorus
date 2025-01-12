@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mdfardinkhan1952@gmail.com**
 
-- 📄 Know about me [https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing](https://drive.google.com/file/d/17padBa3CAgMHHPzHnaLVVUHDfeCWcxfi/view?usp=sharing)
+- 📄 [Know about me](https://drive.google.com/file/d/1JkRGMoL0KXacZ2hvUosKFddGy7bHrKVr/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/fardin.khan.166751/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fardinkhan121199/) 
